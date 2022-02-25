@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of Sathan Who hath in man covered himself, by perswading men, that original sin is the corruption of the nature of every man, that is ingendred of the offspring of Adam: also, a demonstration of the Messiah in man, to whom the gathering of the people shall be, of whom Moses in the law and the prophets did write, Gen. 49.18. Isai.11.12. Written for the use of such that denyeth not themselves the use of reson and sense, and that are not wedded to their own perswasion.</title>
+            <author>West, Robert, b. ca. 1613.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65475</idno>
+            <idno type="STC">Wing W1388</idno>
+            <idno type="STC">ESTC R217304</idno>
+            <idno type="EEBO-CITATION">99828986</idno>
+            <idno type="PROQUEST">99828986</idno>
+            <idno type="VID">33421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of Sathan Who hath in man covered himself, by perswading men, that original sin is the corruption of the nature of every man, that is ingendred of the offspring of Adam: also, a demonstration of the Messiah in man, to whom the gathering of the people shall be, of whom Moses in the law and the prophets did write, Gen. 49.18. Isai.11.12. Written for the use of such that denyeth not themselves the use of reson and sense, and that are not wedded to their own perswasion.</title>
+                  <author>West, Robert, b. ca. 1613.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end of work: Written by R. W. in the year 1668; R.W. = Robert West.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Theology --  Early works to 1800.</term>
+               <term>Sin, Original --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb n="1" facs="tcp:33421:1" rendition="simple:additions"/>
+            <head>A DISCOVERY OF SATHAN.</head>
+            <p>Who hath in Man Covered Himſelf, by perſwading Men, that Original Sin is the Corruption of the Na<g ref="char:EOLhyphen"/>ture of every Man, that is ingendred of the off<g ref="char:EOLhyphen"/>ſpring of <hi>Adam:</hi> Alſo, a Demonſtration of the <hi>Meſſiah</hi> in Man, to whom the gathering of the People ſhall be, of whom <hi>Moſes</hi> in the Law <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Prophets did write, <hi>Gen.</hi> 49.18. <hi>Iſai.</hi> 11.12.</p>
+            <p>Written for the uſe of ſuch that denyeth not them<g ref="char:EOLhyphen"/>ſelves the uſe of Reaſon and Senſe, and that are not wedded to their own Perſwaſion.</p>
+         </div>
+         <div type="to_the_reader">
+            <head>An Epiſtle to the Reader.</head>
+            <p>I <hi>Charge thee Reader, not to ſpend thy cenſures on thy loving friend, whoſe great deſires for nothing more, than that Light ſhould unmask the Whore, and tear away her painted dreſs, that all may ſee her na<g ref="char:EOLhyphen"/>kedneſs; then introduced there ſhall be, new Heavens and Earth, that all may ſee, admiring much the glori<g ref="char:EOLhyphen"/>ous Frame, and ſtrange compoſition of the ſame; then truth and juſtice ſhall appear throughout the World, without all fear; Darkneſs ſhall ceaſe, and Light break forth, from Eaſt to Weſt, from South to North: this is the time I long to ſee, till then we never ſhall be free
+<pb n="2" facs="tcp:33421:2"/>from envy, malice and oppreſſion, and what ſo ever is called tranſgreſſion. The Author fain would teach all Men, the ground of things by word or Pen, that they may knows, (live, and not die,) Chriſt in their Fleſh, Gods miſtery.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>WHat have been talked of in times paſt to be Ori<g ref="char:EOLhyphen"/>ginal ſin?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The <hi>Pelagians</hi> talk, Original ſin ſtandeth in following of <hi>Adam,</hi> as it is noted in the Ninth Article of the Church of <hi>England;</hi> but the Church of <hi>England,</hi> in that Article ſaith, that it is the fault and con<g ref="char:EOLhyphen"/>ruption of the nature of every man, that is ingendred of the off-ſpring of <hi>Adam:</hi> This have been talked of to be Original ſin. Mark, according unto holy Scriptures, that which moves in man, to move man to ſin, is not the corruption of our na<g ref="char:EOLhyphen"/>ture, [for that is paſſive] but the power or motion of Sathan in our fleſh, which is active: This is the Original of Sin, for as 'tis written, ſin is of the Devil, 1 <hi>Joh.</hi> 3.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Is the motion of Sathan, which is in our members, ſin?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, for it wars againſt the Law of God, which is in our minds, to wit, the Light; to war againſt the Law of God, is ſin, and to move to man, or to tempt man to do contrary unto the beeing of God in man, is ſin; whoſe being in us is as a Law to us, by which cometh to us the knowledge of ſin.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Shall not. the motion of Sathan, which is ſin, be imputed to man, if man obey not?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Nay, to him that tempteth it's a ſin to be imputed, but to man that is tempted, it's no ſin to be imputed, if he fall not into it; becauſe man is not the author of the motion of ſin, that is of the Devil, the motion of Sathan which is ſin, we have, when we do not commit ſin; mark, it's one thing to have ſin, it's another thing to commit ſin; he that committeth ſin is of the Devil, 1 <hi>Joh.</hi> 3.8 <hi>Joh.</hi> 8.44.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Is the motion of Sathan in the Fleſh of innocent man<g ref="char:EOLhyphen"/>kind; if ſo, then may it not be in the fleſh of little children?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, it may be in the fleſh of little Children; that it
+<pb n="3" facs="tcp:33421:2"/>was in the fleſh of innocent man kinde, <hi>Paul</hi> the Apoſtle ſaith, When I would do good, evil is preſent with me; Again, he ſaith, I finde a Law in my members warring againſt the Law in my mind: Again, In me, that is, in my fleſh, ſaith he, dwel<g ref="char:EOLhyphen"/>leth no good thing, <hi>Rom.</hi> 7. <hi>James</hi> ſaith, Know ye not, that the ſpirit that dwelleth in us, luſteth to envy, <hi>James</hi> 4.5. that it is, I am a witneſs; for I finde by the Law, as it is written, that when I would do good, evil is preſent with me, <hi>Rom</hi> 7.21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>If the motion of ſin be in the fleſh of innocent man<g ref="char:EOLhyphen"/>kinde, is not that</hi> Adam<hi>'s tranſgreſſion?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Nay, Mans ſin is no ſubſtance, but an act or accident, a tranſgreſſing againſt the Law of God: mark, that which moves in us, to move us to ſin, is a ſubſtance, not <hi>Adam</hi>'s ſin, but the Serpent, that moved them to ſin.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Are not little children conceived and born in ſin, as it have been conceived, declared, and believed?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It's written, the Lord is the Former of all things, <hi>Jer.</hi> 10.16. and that in wiſdom (which is contrary to ſin) hath he made them all, <hi>Pſal.</hi> 104.24. and his work is perfect, <hi>Deut.</hi> 32.4. Chriſt Jeſus ſaith, touching little Children, of ſuch is the Kingdom of Heaven. <hi>Luke</hi> 18.16. <hi>Math.</hi> 19.14. Again, he ſaith, Verily, verily, I ſay unto you, except ye be converted, and become as little Children, ye ſhall not enter into the Kingdom of Heaven, <hi>Mat.</hi> 18.9. Again, it's noted in the com<g ref="char:EOLhyphen"/>mon prayer Book, in publick Baptiſme, that little Children are innocent; and in the Collect for Innocents Day, ſee then, ac<g ref="char:EOLhyphen"/>cording to <hi>Moſes,</hi> the Prophets, and Chriſt's ſayings, little Chil<g ref="char:EOLhyphen"/>dren are innocent, and not born in ſin.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>What is Innocency, and what is degeneration?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Innocency is uprightneſs; <hi>Adam</hi> was in it, the Lord made man upright, <hi>Eccl.</hi> 7.29. Degeneration is tranſgreſſion, the Lord made it not, nor man in it, <hi>Wiſd.</hi> 1.13.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Have not Chriſt by his death deſtroyed the power of ſin, and ſatisfied the wrath of God for all tranſgreſſions? there are many that do believe that Chriſt, by his death, hath ſatisfied the wrath of God for all ſins preſent, paſt, and to come, and hath by his death deſtroyed the power of ſin?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To believe that Chriſt by his Death hath ſatisfied
+<pb n="4" facs="tcp:33421:3"/>God's wrath for all ſins, and hath by his death deſtroyed the power of ſin: Is to believe againſt Holy Scripture and know<g ref="char:EOLhyphen"/>ledge, becauſe we finde in our fleſh the power of ſin unde<g ref="char:EOLhyphen"/>ſtroyed: Again, when we were the ſervants of ſin, then as it's written, <hi>Rom.</hi> 2.8, 9. Upon our ſouls was tribulation, anguiſh and wrath: Again, if all ſins preſent, paſt, and to come, was ſatisfied for, by the death of Chriſt; then there remains no place for preaching his name, for repentance and remiſſion of ſins, nor for Chriſt's Interceſſion. Mark, according to Holy Scripture, the miniſtry of the Goſpel of God is to be preached among all Nations for obedience of faith; that they may come to repentance, and receive remiſſion of ſins, <hi>Luke</hi> 24.27. Except ſinners repent, they ſhall all periſh, <hi>Luke</hi> 13.4. Chriſt taſted Death for every man, for the redemption of the tranſ<g ref="char:EOLhyphen"/>greſſions that was under the firſt Teſtament, <hi>Heb.</hi> 2.9. &amp; 9.15. But for the ſin of not believing the ſecond Teſtament or Cove<g ref="char:EOLhyphen"/>nant of God, of that men muſt repent, or elſe for that they ſhall periſh, and dye in their ſins, as the Lord hath ſaid, <hi>John</hi> 8.24. <hi>Luke</hi> 13.3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>What is the firſt Teſtament?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Precepts of God gave forth, contained in Scripture without us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>What is the ſecond Covenant of the Lord, and where is it to be witneſſed?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The new and ſecond Covenant of the Lord is the Law, which is ſpiritual, the true Light, gave and put by God in the mindes of his People, according to his promiſe, <hi>Jer.</hi> 31.33. <hi>Heb.</hi> 8.10. That lighteth every man that cometh into the World. <hi>John</hi> 1 9. It's perfect converting the Soul, making wiſe the ſimple, <hi>Pſal.</hi> 19.7. The ſame to day as it was yeſter<g ref="char:EOLhyphen"/>day, and for ever; under differing names or ſounds declared to us, he that doth believe have the witneſs in himſelf; 1 <hi>John</hi> 5.10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Is the Goſpel of the Kingdom of God the matter or ſub<g ref="char:EOLhyphen"/>ſtance of preaching, to beget faith in all men or man-kinde, to wit the World?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> If it was not in all the World, to wit man-kinde, then it could not be preached in all the World for a witneſs: mark,
+<pb n="5" facs="tcp:33421:3"/>Chriſt ſaith, this Goſpel of the Kingdom ſhall be preached for a witneſs in all the World, <hi>Math.</hi> 24.14. Again, he ſaith, behold the Kingdom of God is within you, <hi>Luke</hi> 17.21. It's written, the Word is nigh thee, even in thy mouth and in thy heart; this is the word of faith we preach, <hi>Deut.</hi> 30.14. <hi>Rom.</hi> 10.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Is that holy thing in man, by which cometh the know<g ref="char:EOLhyphen"/>ledge of ſin, the Word of God that liveth and abideth for ever, the ſubſtance or matter of preaching to beget the lively faith?</hi> Martin Pereas, <hi>and many others ſaith; the matter or ſubſtance of preach<g ref="char:EOLhyphen"/>ing to beget faith, muſt be the written Word, or Scriptures of the old and new Testament, which by faith, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> indeed the lively ſeed and firm foundation of faith:</hi> Wilſon<hi>'s Dictionary, pag.</hi> 378.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Holy Scriptures of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, are God's witneſs, that faith comes by hearing, and hearing by the Word of God, <hi>Rom.</hi> 10.17. and that God was the Word, <hi>John</hi> 1.1. As it's written, nigh thee, in thy mouth, and in thy heart, the word of faith the holy men preached, was in man, not Scriptures without man for a foundation of faith; no other foundation do the holy Scrip<g ref="char:EOLhyphen"/>tures witneſs unto, but to that which is already laid in thy heart, to wit, the Lord, who is as a Law to man, by whom cometh the knowledge of ſin, to him gives all the Prophets witneſs, that whoſoever believeth in him ſhould receive re<g ref="char:EOLhyphen"/>miſſion of ſins, <hi>Acts</hi> 10.43. and not periſh, but have ever<g ref="char:EOLhyphen"/>laſting life. <hi>John</hi> 3.15.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>What might be the cauſe that devout and great learned Men, pitched upon the Holy Scriptures for the matter or ſubſtance of preaching to beget faith?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The light in them, made manifeſt to them, things that are reprovable, and brought as it do to us the Holy Scriptures to witneſs to it; they minded the things that are reprovable, and the Scriptures that was brought that teſti<g ref="char:EOLhyphen"/>fied to it, but not the wiſdom that brought them, which is greater than all the Scriptures: this was the cauſe that they pitched upon the Holy Scriptures for a foundation of mi<g ref="char:EOLhyphen"/>niſtry: Is written, there was a little City, and few men
+<pb n="6" facs="tcp:33421:4"/>within it; and there came a great King againſt it, and be<g ref="char:EOLhyphen"/>ſieged it, and built great bul-works againſt it; now there was found in it a poor wiſe man, and he by his wiſdome delivered the City: mark, yet no man remembred that poor man; the poor man's wiſdom is deſpiſed, and his words are not heard, <hi>Eccleſ.</hi> 9.14.16. Thus forme was ſet above the Life; which was the cauſe of ſo much ſtrife.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>May the wiſdome of God, which maketh manifeſt things to man, be deſpiſed, and yet the things that are re<g ref="char:EOLhyphen"/>provable, retained in knowledge, and the Scriptures that do witneſs to them: If ſo, then may not a forme of godlineſs be held by ſuch that denyeth the power, and preached, and yet they periſh in their ſins?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, they that received the Law, it's written, periſhed, becauſe they kept not the thing that was ſown in them; 2 <hi>Eſdr.</hi> 9.33. A man may in his knowledge re<g ref="char:EOLhyphen"/>tain the work of the ſpirit of God, and the Scriptures that do witneſs to it, and preach upon it the conceiving of his own brain: mark, and yet not retain God in his knowledge, but deſpiſe his wiſdome, as before is writ<g ref="char:EOLhyphen"/>ten: mark that, ye Teachers, for ye that do ſo, the wrath of God is to be revealed againſt you from Hea<g ref="char:EOLhyphen"/>ven: <hi>Rom.</hi> 1.18. You are them that are not ſent of God, neither ſhall your miniſtry profit the people at all: your miniſtry is conſidered perfectly, as the Lord hath ſaid, it ſhould be in the latter days; <hi>Jeremy</hi> 23.20. The an<g ref="char:EOLhyphen"/>ger of the Lord is gone forth againſt you, and it ſhall not return, untill he have executed, and till he have per<g ref="char:EOLhyphen"/>formed the thoughts of his heart: mark, by that we know falſe miniſtry, we know the latter days is come.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>If all things, when they are rebuked, are made manifeſt by the Light, and that Light is the Lord. Why then was the Holy Scriptures written, and whereunto do they ſerve?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Holy Scriptures was written for our learn<g ref="char:EOLhyphen"/>ing, <hi>Rom.</hi> 15.4. and are God's witneſſes to men, that
+<pb n="7" facs="tcp:33421:4"/>they may believe, that he which tryeth the Reines, and ſearcheth the heart, is the Lord, that ſo men might come to him and be ſaved; hereunto ſerveth the Holy Scriptures, 1 <hi>Chro.</hi> 28.9. <hi>Pſal.</hi> 7.10. <hi>Jer.</hi> 11.20. <hi>Rev.</hi> 2.23.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>It the ſpirit of God, and the grace of God, and the righteouſneſs of God, and the word of God, and the Son of God, one?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, the Father, the Word, and the Holy Ghoſt are one, and the Righteouſneſs, and the Grace of God is of the ſame Eſſence, and they are one in property, quality and vertue: 1 <hi>John</hi> 5.7. <hi>Joh.</hi> 10.30. <hi>Hoſ.</hi> 13.4.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Why doth the Apoſtle</hi> Peter <hi>ſay,</hi> Acts 4. <hi>that there is no other name given among men, whereby they might be ſaved, but by the name of Jeſus Chriſt, if Grace and Chriſt are one?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The ſame Apoſtle ſaith, <hi>Acts</hi> 15. we believe through the grace of our Lord Jeſus Chriſt, we ſhall be ſaved; <hi>Paul</hi> the Apoſtle ſaith, ye are ſaved by grace, through faith; not of your ſelves, it is the gift of God, <hi>Eph.</hi> 5.8. Names or Sounds gives not a beeing unto Subſtances, but demonſtrates them according to their nature, offices, operations and vertues: there are differences of admini<g ref="char:EOLhyphen"/>ſtration, and diverſities of operations, but it is the ſelf ſame Lord: 1 <hi>Cor.</hi> 12.5. beſides him there is no Saviour <hi>Hoſea</hi> 13.4. <hi>Eſa.</hi> 44.6. <hi>Rom.</hi> 1.17. The ſound Jeſus and Saviour is one.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Is this the Testimony of God and his Prophets, and of wiſe men, to wit, that the Lord is in men, and ſearcheth all hearts?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, This is the Teſtimony of God, and his Prophets, and wiſe men, to wit, that the Lord is in their hearts, in the midſt of them, ſearching all hearts, <hi>Hoſ.</hi> 11.9. 1 <hi>Chro.</hi> 28.9.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>What then is the ſaying of the Fool, and of them that are in the Tire of an Harlot?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Fool ſaith in his heart, there is no God: <hi>Pſalme</hi> 14.1. and them that are in the Tire of an Har<g ref="char:EOLhyphen"/>lot
+<pb n="8" facs="tcp:33421:5"/>ſaith, the good man is not at home, he is gone a long Journey. <hi>Prev.</hi> 7.19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Are there three ſpirits in man, to wit, the ſpirit of God, Man's ſpirit, and the ſpirit of the wicked one; if ſo, what is their natures, properties, or qualities, and their workings in man?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, there are three ſpirits in man; firſt, the nature of God's ſpirit in man, is, the Light, powerfull in its operations, immutable in his Eſſence, admitting no ſin to joyn to it, the property and quality of it; briefly, it is meek, wiſe, ſearching all hearts, and ma<g ref="char:EOLhyphen"/>king manifeſt unto men their thoughts, and the motion of Sathan in their fleſh. <hi>2ly.</hi> The nature of the ſpirit of man ſingly conſidered, is mutable, the quality or pro<g ref="char:EOLhyphen"/>perty of ill in its working, is, its ſimple, fierce, furious; they that follow their own ſpirits, as its written, have ſeen nothing: <hi>Ezek.</hi> 13.3. <hi>3ly.</hi> The nature of the ſpirit of the wicked one is irreconcilable to any good, the property or quality of it in its working, is, Its ſubtile, envious and miſchievous always in his working in man: he moves to man to do things contrary unto the beeing of God in man; whoſe being, to wit, God's in us, is, as a Law, by which Law, we know, that when we would do good, evil is preſent in and with us, according as its noted in Scriptures of truth without us, <hi>Rom.</hi> 7.21. mark, the ſpirit of man is not begotten by man, or gendered of man, as ſome in Print have affirmed, then it would be mortal; neither is it that breath which God breathed in man, by which man became a living ſoul, as others in Print have affirmed; but mans ſpirit is gi<g ref="char:EOLhyphen"/>ven him of God, and is of the ſame ſubſtance that the created Angels are of; and its that feeling ſenſible ſpi<g ref="char:EOLhyphen"/>ritual part in man by which we receiveth the things of the ſpirit, or breath of God: That man's ſpirit is not the breath of God, it may appear thus, by the breath of the Lord was the Heavens made, and all the Hoſt of them, <hi>Pſal.</hi> 33.6. and by the breath of his mouth, he
+<pb n="9" facs="tcp:33421:5"/>will ſlay the wicked. <hi>Eſa.</hi> 11.4. 2 <hi>Theſ.</hi> 2.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>If there be three ſpirits in man, Is not there alſo three eſtates of man?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yea, the Son of God, Chriſt Jeſus, is the righteouſneſs of God; when man is in him, then man is in his firſt eſtate, in which he was formed, out of which the Devil is, and into it he cannot come; but when man is between righteouſneſs and unrighteouſ<g ref="char:EOLhyphen"/>neſs, then man is as when he was born, which is man's ſecond ſtate: To man in that ſtate the Serpent can come, as he did to the Woman; when Man tranſ<g ref="char:EOLhyphen"/>greſſeth, then man is in that which God created not, nor man in it, which is man's third eſtate. In it the Devil is, and moveth, and it's under the wrath of God: He that hath an ear to hear, let him hear; and awake to righteouſneſs, and as it's written, ſin no more. <hi>Joh.</hi> 5.14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Seeing that there is a three-fold ſtate of man, in which may a man abide and walk, and not commit Sin?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> In the righteouſneſs of God, Chriſt Jeſus, the way of holineſs, may a way-faring man, though a fool, walk, and not erre therein, <hi>Iſa.</hi> 35.8. Who<g ref="char:EOLhyphen"/>ſoever abideth in him, ſinneth not, 1 <hi>John</hi> 3.6. Righ<g ref="char:EOLhyphen"/>teouſneſs exalts a Nation, ſin is a ſhame to any Peo<g ref="char:EOLhyphen"/>ple, <hi>Pro.</hi> 14.34.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>What is the ministry of them that walk, and abide in Chriſt, and wherein do their worſhip conſiſt, and in what do they worſhip, and what is the effects that fol<g ref="char:EOLhyphen"/>lows of their miniſtry to them?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Our miniſtry is that true Light that lighteth every man that cometh into the World, our worſhip doth conſiſt in anſwering the Lord's requirings; we worſhip the Father, who is God over all, in him, in whom we walk and abide, the effects of the miniſtry unto us is, It makes the comers thereunto perfect, our upright, and ſatisfies our ſouls, and gives us the
+<pb n="10" facs="tcp:33421:6"/>knowledge of God, which is life eternal, <hi>John.</hi> 17.3. which no changable miniſtry can do, and by it in our hearts, as its written, <hi>Math.</hi> 5.8. we have ſeen God, to whom be glory for ever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Why have, and do not God's People worſhip, and walk with ſinners in their worſhips?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Becauſe ſinners miniſtry is changable, and after the Law of a carnal Commandement, and their worſhips conſiſts in teaching, and worſhipping after the precepts of men, which is not bread, <hi>Iſa.</hi> 55.2. Now Chriſt have forewarned his people to beware of men, that teach for Doctrine, the Precepts of men, <hi>Mat.</hi> 16.12. But in vain, ſaith he, do they worſhip me, teaching for Doctrine the Commandements of men, <hi>Mat.</hi> 15.9. <hi>Mark</hi> 7.7. Again, by his Apoſtles, we are forewarned to turn from them that have a forme of godlineſs, and do deny the power, 2 <hi>Tim.</hi> 3.5. Again, we are forewarned by the Wiſe man, <hi>Prov.</hi> 19.27. to ceaſe to hear the inſtruction that cau<g ref="char:EOLhyphen"/>ſeth to erre from the words of Knowledge: ſo like<g ref="char:EOLhyphen"/>wiſe by the Lord of Hoſts, in <hi>Jeremy</hi> 23.16. Now bleſſed is the man that walketh not in the counſel of the ungodly, nor ſtandeth in the way of ſinners, <hi>Pſal.</hi> 1.1.</p>
+            <div type="part">
+               <head>To all Rulers whom it may concern; A few words to conſider of, ſeeing there is a time that one Man may bare rule over another unto his own hurt. <hi>Eccl. 8.9.</hi>
+               </head>
+               <p>IN the Apoſtles Days, they exhorted the Saints to be ſubject unto every Ordinance of Man, for the Lord's ſake; to the King, to the Rulers, to all that
+<pb n="11" facs="tcp:33421:6"/>was ſet in Authority under him; for ſaid they, the Powers that are, are of God; the Rulers that then was, did not judge men for queſtions, and names, and words that related unto Religion, as its noted in the Scriptures of truth, <hi>Acts</hi> 18. When the High Prieſts brought Jeſus Chriſt before <hi>Pilate,</hi> and accuſed him of Blaſphemy, producing their Law for it, <hi>John</hi> 19.7. <hi>Pilate</hi> denyed them to give Judgment in that caſe, <hi>John</hi> 18.31. Again, when <hi>Paul</hi> the Apoſtle of Jeſus Chriſt, with others, was brought before <hi>Galio</hi> the Go<g ref="char:EOLhyphen"/>vernour of <hi>Acaya,</hi> about words, and names relating to Religion; <hi>Galio</hi> ſaid, if it were a matter of wrong, or evil deeds, reaſon would that I ſhould bare with you; but if it be a queſtion of words and names, or of your Law, look ye to it your ſelves, for I will be no Judge of ſuch matters, <hi>Acts</hi> 18.16. Mark that: Again, the 20th Article of the Church of <hi>England</hi> ſaith, its not lawfull for the Church to ordain any thing contrary to Gods word written, neither may it ſo expound one place of Scripture, that it be repug<g ref="char:EOLhyphen"/>nant to another: Again, the 2d. Collect for Peace in the Common-prayer Book, ſaith, The ſervice of God is perfect freedom; this ſaying is true. Is not compel<g ref="char:EOLhyphen"/>ling to worſhip contrary to perfect freedome? judge in your ſelves the things that are meet; for we who fear the Lord, are to prove all things, and do by the ſpirit of truth, which is within us, finde, and accord<g ref="char:EOLhyphen"/>ing to the Scriptures of truth, that the ſayings of many, and their doings, do not agree; Conſider of it, I pray you, that ſo you may do things worth to be called by us, who fear the Lord, Noble, as the <hi>Roman</hi> Ruler was by <hi>Paul,</hi> Acts 26.25.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:33421:7"/>
+               <head>A few Words to thoſe that may endeavour to oppoſe what is before written, touching little Children being born in innocency, and not in ſin.</head>
+               <p>IT may be conceived from what is written in <hi>Pſal.</hi> 51.5. that little Children are ſhapen and conceived in ſin. Mark. <hi>Thomas Wilſon,</hi> that learned Man in his Dictionary, <hi>Page</hi> 602. ſaith on that place, ſin entered with us into the World: This ſaying is true; but that little Chil<g ref="char:EOLhyphen"/>dren are ſhapen and born in ſin, is contrary to holy Scriptures; which ſaith, In wiſdom (which is contrary to ſin) hath he, to wit, the Lord, made all his works.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> 
+                  <hi>If Sathan, or the motion of Sathan, which is ſin, entered, or is born with little Chil<g ref="char:EOLhyphen"/>dren, Is it not all as one, as though little Chil<g ref="char:EOLhyphen"/>dren was ſhapen and born in ſin?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Nay, he that is in ſin, is under the Dominion of Sathan, and is out of God's wiſ<g ref="char:EOLhyphen"/>dom; to wit, the Son of God, in whom, and by whom the Former of all things made the Worlds, <hi>Heb.</hi> 1.2. Again, it may be conceived from the 2 <hi>Eph.</hi> 3. That by nature, little Children are Children of wrath. Mark, the 3d. Verſe of that Chapter depends on the 2d. Verſe. where its written (that was ſpoken of ſuch that walked, not of paſſive Children) according to the courſe of this World, according to the Prince of the
+<pb n="13" facs="tcp:33421:7"/>power of the Ayr, the ſpirit that now worketh in the Children of diſobedience: Mark, by fol<g ref="char:EOLhyphen"/>lowing the Prince of the power of the Ayr, they are by nature the Children of wrath, but not as they was formed by the Lord, of the na<g ref="char:EOLhyphen"/>ture of man-kinde. Again, it may be conceived by what is written, <hi>Joh.</hi> 3.3. That little Chil<g ref="char:EOLhyphen"/>dren are born degenerated, that Scripture points unto Man degenerated, not to little Children; little Children are formed in righteouſneſs, and born in innocency, as before is noted.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> 
+                  <hi>If any Query, whether there be any ſa<g ref="char:EOLhyphen"/>ved by Jeſus Chriſt, but thoſe for whom Chriſt dyed; and whether he dyed for any but ſinners; and then conclude, that little Children are born in ſin, or the ſin of</hi> Adam <hi>is imputed to them, or elſe Chriſt dyed not for them, and ſo conceive that little Children are not ſaved by Chriſt, if born in Innocency.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> We need not any Man to teach us, (as it is written, 1 <hi>Joh.</hi> 2.27.) but as the anoint<g ref="char:EOLhyphen"/>ing teacheth us, the manifeſtation of it is given to every Man to profit withall; the anointing which is in us, convinceth us not, nor chargeth us not with the tranſgreſſion of <hi>Adam,</hi> nor any of our Fore-fathers; becauſe, for the Redemption of the tranſgreſſions that was under the firſt Te<g ref="char:EOLhyphen"/>ſtament, Chriſt taſted death for every man, <hi>Heb.</hi> 2.9. and the 9.15. So that little Children ſhall not anſwer for the ſin of their Fathers, as the Lord hath ſworn, <hi>Ezek.</hi> 18. but are guided in
+<pb n="14" facs="tcp:33421:8"/>youth, <hi>Prov.</hi> 2.17. and are ſaved by the life of Jeſus, <hi>Rom.</hi> 5.10. if they dye before they tranſ<g ref="char:EOLhyphen"/>greſs againſt the ſecond Teſtament. Mark, its the Soul that ſinneth, its written, ſhall die, <hi>Ezek.</hi> 18.20. <hi>Hoſ.</hi> 13.9. Theſe things are written to ſtop errors, becauſe an error in its beginning is next to the Serpent, the cauſe of all error and confuſion, that have been upon the Earth unto this day; by the Light according to what is written, <hi>Jer.</hi> 16.19. It may appear, that our Fa<g ref="char:EOLhyphen"/>thers have inherited lies, vanity, and things wherein there is no profit.</p>
+               <q>
+                  <l>O Sathan, old and ſubtle too, thy ways is hard to finde,</l>
+                  <l>How thou doſt work in Sons of Men, their Childrens minds to blinde.</l>
+                  <l>Know Sathan, thou Unvail'd muſt be: No cover ſhall thee hide,</l>
+                  <l>Though thou moves Men, profeſſing Chriſt: To judge that they may ride,</l>
+                  <l>Upon the truth, and her Children: a place not fit for Man.</l>
+                  <l>Know of a truth thy time is ſhort. Yea, even now's at hand,</l>
+                  <l>For to be bound not to deceive, the Lord will do the thing,</l>
+                  <l>And we that do God's Name profeſs, will to Him for it ſing.</l>
+               </q>
+               <p>Finally, Becauſe amongſt the many thouſand witneſſes, I do teſtifie that the true Light which
+<pb n="15" facs="tcp:33421:8"/>lighteth every Man that cometh into the World, is the matter or ſubſtance of Preaching to beget faith; ſome Men may think and ſay [as ſome have] that I do deny the Holy Scriptures. Know all Men, that I do own the Holy Scriptures, for they do teſtifie that the ſearcher of all hearts is God, and that God is Light, and that all things that are rebukable, when they are made mani<g ref="char:EOLhyphen"/>feſt, is manifeſted by the Light. Again, know that I am a witneſs, and do think of Holy Scrip<g ref="char:EOLhyphen"/>tures above Men, as its written, 1 <hi>Cor.</hi> 4.6. But I may not think of Holy Scriptures above God in Man, or the Teſtimony of Jeſus, which is the ſpirit of Propheſie: for, as its written, 1 <hi>Joh.</hi> 5.10. The witneſs of God is greater; he that do believe the Teſtimony that God gives of his Son, have the witneſs in himſelf; but every ſpi<g ref="char:EOLhyphen"/>rit that confeſſeth not that Jeſus Chriſt is come in the Fleſh, that Spirit is of Anti-Chriſt, 1 <hi>Joh.</hi> 4.3.</p>
+               <byline>Written by <hi>R. W.</hi> in the Year 1668.</byline>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
